@@ -48,10 +48,4 @@ It classifies a new observation based on the **majority vote of its K nearest ne
 - Large K → smoother boundary, underfitting  
 - Common approach: Try several K values and pick the one with highest validation accuracy.
 
----
 
-## 🧰 Requirements
-To install all dependencies, run:
-
-```bash
-pip install -r requirements.txt
